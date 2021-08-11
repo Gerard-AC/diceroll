@@ -1,4 +1,4 @@
 # DiceRoll
 A simple dice roll game using JavaScript. (Refresh to play again)
 
-https://gerard-ac.github.io/DiceRoll/
+https://g3r4rdr4r3g.github.io/DiceRoll/
